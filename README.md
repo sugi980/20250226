@@ -1,3 +1,5 @@
 # 20250226
 Git学習用に作成されたリポジトリです。
+<！DOCTYPE html>
+<html lang="ja">
 
